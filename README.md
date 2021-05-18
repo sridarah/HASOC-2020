@@ -1,5 +1,4 @@
 # HASOC-2020
-Code of our submission to tracks of HASOC 2020 competition
 
 This repository contains our (HRS-TECHIE) submissions to the HASOC 2020 competetion which is "Hate Speech and Offensive Content Identification in Indo-European Languages" at FIRE 2020.
 
