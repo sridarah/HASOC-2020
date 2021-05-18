@@ -5,6 +5,9 @@ This repository contains our (HRS-TECHIE) submissions to the HASOC 2020 competet
 # Team Members
 Sridhar Swaminathan, Hari Krishnan Ganesan, and Radhakrishnan Pandiyarajan
 
+# Publication
+Sridhar Swaminathan, Hari Krishnan Ganesan, and Radhakrishnan Pandiyarajan, "HRS-TECHIE@HASOC 2020: Identification of Hate Speech and Offensive Content in Twitter using state-of-the-art Machine Learning, Deep Learning and Ensemble Methods", 12th Forum for Information Retrieval Evaluation, 2020. (Rank 12 and 9
+
 # About HASOC 2020 -FIRE2020
 The large fraction of hate speech and other offensive and objectionable content online poses a huge challenge to societies. Offensive language such as insulting, hurtful, derogatory or obscene content directed from one person to another person and open for others undermines objective discussions. Such type of language can be more increasingly found on the web and can lead to the radicalization of debates. Objectionable content can pose a threat to democracy. At the same time, open societies need to find an adequate way to react to such content without imposing rigid censorship regimes. As a consequence, many platforms of social media websites monitor user posts. This leads to a pressing demand for methods to automatically identify suspicious posts. Online communities, social media enterprises and technology companies have been investing heavily in technology and processes to identify offensive language in order to prevent abusive behavior in social media.
 
